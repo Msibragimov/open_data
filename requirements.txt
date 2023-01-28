@@ -1,0 +1,4 @@
+Django==4.1.5
+Pillow==9.0.1
+python-dotenv==0.21.1
+six==1.16.0
